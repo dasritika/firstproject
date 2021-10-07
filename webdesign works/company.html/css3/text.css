@@ -1,0 +1,59 @@
+.top-section{
+  margin: 0;
+  background-color: black;
+}
+.blue-part{
+  width: 1310px;
+  height: 450px;
+  padding: 10px
+}
+h1{
+font-family: 'Courgette', cursive;
+color: white;
+position: absolute;
+bottom: 400px;
+left: 900px;
+font-size: 2.66rem;
+}
+h4{
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  position: absolute;
+  bottom: 380px;
+  left: 950px;
+}
+.table-one{
+  font-family: 'Courgette', cursive;
+  color: white;
+  font-size: 0.80rem;
+}
+h2{
+  font-family: 'Vidaloka', serif;
+  color: #1E3163;
+}
+.para-1{
+  text-align: justify;
+  width: 80%;
+}
+.second-part{
+  margin-right: 100px;
+}
+hr{
+  border-style: none;
+  border-top-style: dashed;
+  border-color: black;
+  border-width: 2px;
+  width: 80%;
+  margin-right: 200px;
+}
+.para-2{
+  text-align: justify;
+  width: 80%;
+}
+h5{
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin: 20px;
+  padding: 20px 0 20px ;
+}
